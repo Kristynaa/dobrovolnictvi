@@ -211,7 +211,6 @@ footer {
 
 
 header {
-    min-height: 60px;
     text-align: center;
     margin: 2em 0;
 }
@@ -219,7 +218,7 @@ header {
 .header-title {
     color: #555;
     font-size: 3em;
-    line-height: 0;
+    line-height: 100%;
     margin: 0;
     display: inline-block;
     letter-spacing: -1px;

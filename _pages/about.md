@@ -46,8 +46,6 @@ Does the theme deserve a star?
 </form>
 
 
-[**Demo**]({{site.full-version}}){: target="_blank"}
-
 The premium theme includes the following:
 
 1. Pagination
