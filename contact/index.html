@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Contact - Malujme duší</title>
+    <link
+      href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,700"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href=/css/main.css>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!-- Begin Jekyll SEO tag v2.7.1 -->
+    <title>Contact | Malujme duší</title>
+    <meta name="generator" content="Jekyll v4.2.1" />
+    <meta property="og:title" content="Contact" />
+    <meta property="og:locale" content="en_US" />
+    <link rel="canonical" href="http://www.malujmedusi.cz/contact/" />
+    <meta property="og:url" content="http://www.malujmedusi.cz/contact/" />
+    <meta property="og:site_name" content="Malujme duší" />
+    <meta name="twitter:card" content="summary" />
+    <meta property="twitter:title" content="Contact" />
+    <script type="application/ld+json">
+      {
+        "url": "http://www.malujmedusi.cz/contact/",
+        "@type": "WebPage",
+        "headline": "Contact",
+        "@context": "https://schema.org"
+      }
+    </script>
+    <!-- End Jekyll SEO tag -->
+  </head>
+  <body>
+    <header>
+      <div id="mySidenav" class="sidenav">
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()"
+          >&times;</a
+        >
+
+        <a href="/"
+          ><h1 class="header-title" style="font-size: 1.5em; color: #999">
+            Malujme duší&nbsp;<i class="fa fa-sun-o" aria-hidden="true"></i></h1
+        ></a>
+        <a href="/">Home</a>
+        <a href="/about/">About</a>
+        <a href="/contact/">Contact</a>
+      </div>
+
+      <!-- Use any element to open the sidenav -->
+      <span id="slid" onclick="openNav()"
+        ><i class="fa fa-align-left" aria-hidden="true"></i
+      ></span>
+      <a href="/"
+        ><h1 class="header-title">
+          Malujme duší<i class="fa fa-sun-o" aria-hidden="true"></i></h1
+      ></a>
+    </header>
+    <div id="main">
+      <div class="page-container">
+        <div class="content">
+          <article>
+            <h1 class="page-title">Contact</h1>
+
+            <style>
+              .contact-li {
+                list-style: none;
+              }
+
+              .contact-input {
+                border: none;
+                border-bottom: 1px solid #eee;
+                width: 12em;
+              }
+
+              .contact-input:focus {
+                outline: none;
+                border-bottom: 1px solid #ea6111;
+              }
+
+              .contact-label {
+                display: block;
+              }
+
+              ul.contact-ul {
+                margin: 0;
+                padding: 10px;
+              }
+
+              #submit {
+                border: none;
+                background-color: #ea6111;
+                padding: 5px 15px;
+                color: #eee;
+                opacity: 0.8;
+              }
+
+              #submit:hover {
+                opacity: 1;
+                cursor: pointer;
+              }
+
+              #contact-form {
+                border: 1px solid #aaa;
+                display: inline-flex;
+                margin-bottom: 1em;
+              }
+            </style>
+
+            <p>
+              You can send me your feedback or suggestion here. If there is
+              something missing in the theme then you can ask me to add.
+            </p>
+
+            <p>
+              Also, if you are willing to add it yourself then feel free to open
+              a pull request after making changes.
+            </p>
+
+            <p>
+              This form is setup using
+              <a href="https://getsimpleform.com" target="_blank" rel="nofollow"
+                >SimpleForm</a
+              >. You can get your own API token and update it in the
+              <strong>_config.yml</strong> file.
+            </p>
+
+            <p>But remember, php forms will not work on Jekyll.</p>
+
+            <p>
+              More about jekyll forms here:
+              <a href="https://blog.webjeda.com/jekyll-subscribe-form/"
+                >https://blog.webjeda.com/jekyll-subscribe-form/</a
+              >
+            </p>
+
+            <p>
+              The styles for the form is included in this page. I haven’t
+              included it in the main css because the form has at least 25 lines
+              of css and it is used only on this page. So including it in main
+              css file doesn’t make sense.
+            </p>
+
+            <div id="fb-root"></div>
+            <script>
+              (function (d, s, id) {
+                var js,
+                  fjs = d.getElementsByTagName(s)[0];
+                if (d.getElementById(id)) return;
+                js = d.createElement(s);
+                js.id = id;
+                js.src =
+                  "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=1409800599270506";
+                fjs.parentNode.insertBefore(js, fjs);
+              })(document, "script", "facebook-jssdk");
+            </script>
+
+            <div
+              class="fb-page"
+              data-href="https://www.facebook.com/webjeda/"
+              data-small-header="true"
+              data-adapt-container-width="false"
+              data-hide-cover="true"
+              data-show-facepile="true"
+            >
+              <blockquote
+                cite="https://www.facebook.com/webjeda/"
+                class="fb-xfbml-parse-ignore"
+              >
+                <a href="https://www.facebook.com/webjeda/">WebJeda</a>
+              </blockquote>
+            </div>
+          </article>
+        </div>
+      </div>
+
+      <footer>
+        <p style="margin: 0">
+          Copyrights 2022. All Rights Reserved by Malujme duší
+        </p>
+        <p style="margin: 0">
+          Image credits -
+          <a href="https://unsplash.com/" target="_blank">Unsplash</a>
+        </p>
+        <p style="margin: 0">
+          Designed by -
+          <a href="https://webjeda.com/" target="_blank"
+            ><strong>WebJeda</strong></a
+          >
+        </p>
+      </footer>
+    </div>
+    <script>
+      function openNav() {
+        document.getElementById("mySidenav").style.width = "250px";
+      }
+      function closeNav() {
+        document.getElementById("mySidenav").style.width = "0";
+      }
+    </script>
+    <link
+      href="//maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css"
+      rel="stylesheet"
+      type="text/css"
+    />
+  </body>
+</html>
