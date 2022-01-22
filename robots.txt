@@ -1,1 +1,1 @@
-Sitemap: http://www.malujmedusi.cz/sitemap.xml
+Sitemap: https://www.malujmedusi.cz/sitemap.xml
