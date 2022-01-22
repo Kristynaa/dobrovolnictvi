@@ -1,55 +1,35 @@
 ---
-title: About
+title: O projektu
 layout: post
-permalink: /about/
+permalink: /o_projektu/
 ---
 
-Karna is a Jekyll theme created with pinterest like pins. It is a freemium theme.
+**Malujme duší**
 
-For more themes visit - [**Webjeda Jekyll Themes**](https://blog.webjeda.com/jekyll-themes/){: target="_blank"}
+_Vítejte pocestné dobrým srdcem,  
+malujte okolní krajinu duší,  
+myslete na minulost i budoucnost s nadějí,  
+Vy, jež časem i v nevlídném dešti putujete._
 
-For Jekyll tutorials visit - [**Webjeda**](https://blog.webjeda.com/){: target="_blank"}
+**Cílem této stránky je literárně a výtvarně představit svět duševních onemocnění
+české široké veřejnosti.**
 
-Does the theme deserve a star?
+**Umožněme i ostatním nahlédnout do světa plného fantazie, který okouzluje náš svět.**
 
-<a class="github-button" href="https://github.com/sharu725/karna" data-style="mega" data-count-href="/sharu725/karna/stargazers" data-count-api="/repos/sharu725/karna#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star sharu725/karna on GitHub">Star</a>
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+Vážení pocestní,
 
-**Buy this theme**
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" style="display: inline-block">
-<input type="hidden" name="cmd" value="_xclick">
-<input type="hidden" name="business" value="sharu725@gmail.com">
-<input type="hidden" name="lc" value="IN">
-<input type="hidden" name="item_name" value="Karna Jekyll Theme">
-<input type="hidden" name="item_number" value="karna">
-<input type="hidden" name="button_subtype" value="services">
-<input type="hidden" name="no_note" value="0">
-<input type="hidden" name="currency_code" value="USD">
-<input type="hidden" name="bn" value="PP-BuyNowBF:btn_buynowCC_LG.gif:NonHostedGuest">
-<table>
-<tr><td><input type="hidden" name="on0" value="Add ons">Add ons</td></tr><tr><td><select name="os0">
-	<option value="Theme + 3 months support">Theme + 3 months support $12.00 USD</option>
-	<option value="Theme + Installation">Theme + Installation $18.00 USD</option>
-	<option value="Theme + Extended 12 months support">Theme + Extended 12 months support $25.00 USD</option>
-</select> </td></tr>
-</table>
-<input type="hidden" name="currency_code" value="USD">
-<input type="hidden" name="option_select0" value="Theme + 3 months support">
-<input type="hidden" name="option_amount0" value="12.00">
-<input type="hidden" name="option_select1" value="Theme + Installation">
-<input type="hidden" name="option_amount1" value="18.00">
-<input type="hidden" name="option_select2" value="Theme + Extended 12 months support">
-<input type="hidden" name="option_amount2" value="25.00">
-<input type="hidden" name="option_index" value="0">
-<input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
-</form>
+vítám Vás na kreslené a popsané stránce, lejstru plném sněhových bouří a závějí, ale i lehce zasněžených pavučinek z těch nejzajímavějších příběhů.
+Poetické pavučinky budou Vám příležitostí pro seznámení nejen s básníky, spisovateli, kreslíři, malíři či fotografy, ale především s nevšedními osobami a talenty.
+Pojďte s námi jedinečnou cestou plnou obrázků, fotografií, povídek, pohádek a básní, cestou klikatou, na níž seznámeni budete s duševními patáliemi poutníků, jimž do cesty plné těžkostí a zotavení naskytla se také vděčnost.
 
+Přijměte prosím výzvu, Vy, kdo svůj příběh zotavení či svá další (destigmatizačí i nedestigmatizační) literární a výtvarná díla sdíleti plánujete, a zašlete svá umělecká díla na e-mailové adresy pisme@malujmedusi.cz nebo malujme@malujmedusi.cz. Podílejte se tak s námi na destigmatizaci! Zapojit se mohou lidé se zkušeností s duševním onemocněním nebo i jejich příbuzní a známí, jimž nemoc ovlivnila život. Více informací pro sdílení získejte na e-mailové adrese info@malujmedusi.cz.
 
-The premium theme includes the following:
+**Představení autorky dobrovolnického projektu**
 
-1. Pagination
-2. Share bar on hovering over the pins
-3. Share bar in the article
-4. Different page widths
-5. Support
+Jmenuji se Kristýna a ve volném čase píši, kreslím a maluji. Dá se říct, že jsem vděčna za zkušenost s duševním onemocněním, konkrétně se slyšinami, převážně pozitivními, které přinesly nejen náročné chvíle, ale také mnoho obohacujících zkušeností a uvědomění si toho podstatného. Dodnes jsou hlasy mými parťáky, jež mě podporují v nasměrování životního stylu. 
+
+Přála bych si, aby společnost byla více informována o psychiatrických onemocněních, a byla tak případně připravena pomoci nejen sobě, ale i svým blízkým, známým a kolegům. V oborech psychiatrie, psychologie a psychoterapie vidím vědy budoucnosti, které lze pojmout nadčasově, moderně a hravě (například umělecky). Z vlastní zkušenosti vím, že základem pro proces zotavení je zdravé sebevědomí. Važte si proto i maličkostí všedního dne a rozvíjejte své záliby.
+
+**Cílem tohoto projektu je nejen vzdělávání a destigmatizace, ale hlavně umělecký zážitek.**
+
+Psalo, nepsalo se, malovalo, nemalovalo se…
