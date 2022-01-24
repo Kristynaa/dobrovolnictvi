@@ -4,7 +4,7 @@ layout: post
 permalink: /o_projektu/
 ---
 
-## Malujme duší
+## Kreslíme v dešti
 
 > Vítejte pocestné dobrým srdcem,  
 > malujte okolní krajinu duší,  
