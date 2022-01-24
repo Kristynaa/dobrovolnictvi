@@ -5,7 +5,7 @@ description: Pellentesque habitant morbi tristique senectus et netus et malesuad
 categories: jekyll update
 img: image-3.jpg
 categories: [one, two]
-color: '006064'
+color: 9c6d9d
 author: webjeda
 ---
 
