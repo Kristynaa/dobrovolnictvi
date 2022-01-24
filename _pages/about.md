@@ -9,7 +9,7 @@ permalink: /o_projektu/
 > Vítejte pocestné dobrým srdcem,  
 > malujte okolní krajinu duší,  
 > myslete na minulost i budoucnost s nadějí,  
-> Vy, jež časem i v nevlídném dešti putujete._
+> Vy, jež časem i v nevlídném dešti putujete.
  
 Cílem této stránky je literárně a výtvarně představit svět duševních onemocnění české široké veřejnosti. Umožněme i ostatním nahlédnout do světa plného fantazie, který okouzluje náš svět.
 
@@ -21,7 +21,7 @@ Pojďte s námi jedinečnou cestou plnou obrázků, fotografií, povídek, pohá
 
 Přijměte prosím výzvu, Vy, kdo svůj příběh zotavení či svá další (destigmatizačí i nedestigmatizační) literární a výtvarná díla sdíleti plánujete, a zašlete svá umělecká díla na e-mailovou adresu {{ 'kreslime' | mailObfuscate }}. Podílejte se tak s námi na destigmatizaci! Zapojit se mohou lidé se zkušeností s duševním onemocněním nebo i jejich příbuzní a známí, jimž nemoc ovlivnila život. Více informací pro sdílení získejte na e-mailové adrese {{ 'info' | mailObfuscate }}.
 
-## Slova autorky dobrovolnického projektu
+## O zkušenostech autorky dobrovolnického projektu
 
 Dá se říct, že jsem vděčna za zkušenost s duševním onemocněním, konkrétně se slyšinami, převážně pozitivními, které přinesly nejen náročné chvíle, ale také mnoho obohacujících zkušeností a uvědomění si toho podstatného. Dodnes jsou hlasy mými parťáky, jež mě podporují v nasměrování životního stylu. 
 
