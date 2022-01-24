@@ -10,7 +10,7 @@ layout: default
        {% endif %}
           <div class="container">
             <a href="{{post.url | prepend: site.baseurl}}"><h4>{{post.title}}</h4></a>
-            <p>{{post.excerpt}}</p>
+            {{post.excerpt}}
              <div class="action">{{ post.date | localize: '%d. %B %Y' }}<a href="{{post.url | prepend: site.baseurl}}"><i class="fa fa-arrow-right" aria-hidden="true"></i></a></div> 
         </div>   
     </div>
