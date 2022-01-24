@@ -205,7 +205,7 @@ header {
 
 .icon {
     width: 2.6em;
-    background-image: url(/images/logo.svg);
+    background-image: var(--logo_path);
     background-repeat: no-repeat;
     background-position: center;
     background-size: 2.6em;

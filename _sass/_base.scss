@@ -17,9 +17,9 @@ body {
 hr {
     border: 0;
     height: 1px;
-    width: 80%;
+    width: 60%;
     margin: 2em auto 2em;
-    background-color: var(--grey-color-light);
+    background-color: var(--grey-color);
 }
 
 a {
@@ -45,33 +45,12 @@ h1{
         font-size: 2em;
     }
 }
+
 h2{
     font-size: 1.6em;
     @include media-query($on-laptop) {
         font-size: 1.2em;
     }
-}
-
-h3{
-    font-size: 1.2em;
-    @include media-query($on-laptop) {
-        font-size: 0.9em;
-    }
-}
-
-h4 {
-        font-size: 1em;
-    @include media-query($on-laptop) {
-        font-size: 0.8em;
-    }
-}
-
-h5{
-        font-size: 0.9em;
-    @include media-query($on-laptop) {
-        font-size: 0.7em;
-    }
-    
 }
 
 img {

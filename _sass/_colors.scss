@@ -13,21 +13,25 @@
     --palette_3: #97afba;
     --palette_4: #9c6d9d;
     --palette_5: #683d6a;
+
+    --logo_path: url(/images/logo.svg)
 }
 
 @mixin dark-colors {
-    --heading-color:    rgb(29, 29, 29);
-    --text-color:       rgb(78, 78, 78);
-    --background-color: #fdfdfd;
-    --brand-color:      #0088AA;
-    --highlight-color:  #eae311;
-    --grey-color-light: #f0f0f0;
-    --grey-color:       #aaa;
-    --grey-color-dark:  #555;
+    --heading-color:    #D4AA00;
+    --text-color:       #a2b7b9;
+    --background-color: #002a35;
+    --brand-color:      #D4AA00;
+    --highlight-color:  #cb4b16;
+    --grey-color-light: #c7c7c7;
+    --grey-color:       #004353;
+    --grey-color-dark:  #D4AA00;
 
-    --palette_1: #0088aa;
-    --palette_2: #344a53;
-    --palette_3: #97afba;
-    --palette_4: #9c6d9d;
-    --palette_5: #683d6a;
+    --palette_1: #727e1d;
+    --palette_2: #237a73;
+    --palette_3: #17517a;
+    --palette_4: #4c508d;
+    --palette_5: #684e00;
+
+    --logo_path: url(/images/logo_inverted.svg)
 }
