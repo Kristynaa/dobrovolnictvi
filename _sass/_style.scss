@@ -28,24 +28,19 @@
     }
 }
 
-
-/* Again, you’re free to use and define the classes: */
 .column { float: left; }
 .size-1of1 { width: 100%; }
 .size-1of2 { width: 50%; }
 .size-1of3 { width: 33.333%; }
 .size-1of4 { width: 25%; }
 
-/* These are the classes that are going to be applied: */
 .column { 
     float: left;
-    
 }
 
 .box {
     margin: 0 10px 15px 0;
     display: inline-block;
-/*     width: 100%; */
     border-radius: 4px;
     box-shadow: 2px 2px 4px #aaa;
     -webkit-box-shadow: 2px 2px 4px #aaa; 
@@ -64,45 +59,43 @@
    border-radius: 4px 4px 0 0; 
    width: 100%;
 
-}    
+}
 
 
 .container {
-         padding: 15px;     
+         padding: 15px;
 
-     }
-     
+}
+
 .container a {
     color: #eee;
     text-decoration: none;
 }
-     .grid-item img {
-         width: 100%;
-         border-radius: 4px 4px 0 0;
-         border:none;
-     }
-     .action{
-         margin-top: 15px;
-         padding-top: 15px;
-         border-top: 1px solid #ddd;
-       
-     }
-     .action .fa{
-         float: right;
-         opacity: 0.9;
-         color: #eee;
-         &:hover{
-             opacity: 0.8;
-         }
-         
-     }
+.grid-item img {
+    width: 100%;
+    border-radius: 4px 4px 0 0;
+    border:none;
+}
+.action{
+    margin-top: 15px;
+    padding-top: 15px;
+    border-top: 1px solid #ddd;
+
+}
+.action .fa{
+    float: right;
+    opacity: 0.9;
+    color: #eee;
+    &:hover{
+        opacity: 0.8;
+    }
+}
 
 .social {
     position: absolute;
     right: 5%;
     top: 2%;
     display: none;
-
 }
 .social .fa, a .fa {
     margin-left: 5px;
@@ -119,7 +112,6 @@
     margin: 0 auto;
     box-shadow: 0 0 1px #aaa;
     max-width: 800px;
-
 }
 .page-container img {
     max-width: 100%;
@@ -155,7 +147,7 @@ article {
 }
 
 .content {
-        padding: 2em;
+    padding: 2em;
 }
 
 footer {
@@ -188,58 +180,43 @@ header {
     line-height: 1;
     color: #ea6111;
     text-shadow: 0 0 1px;
-    
 }
-
-// Disqus comments button
-
-.show-comments {
-    background: transparent;
-    border: 1px dashed $brand-color;
-    cursor: pointer;
-    text-align: center;
-    color: $text-color;
-    font-size: 1.2em;
-    padding: 4px;
-    margin-top: 1em;
-    &:hover{
-       border: 1px dashed $highlight-color;
-    }
-}
-
-.comment {
-    text-align: center;
-}
-
 
 // Table
 table {
   margin: 15px 0;
   border-collapse: collapse;
   width: 100%;
-  padding: 0; }
-  table tr {
+  padding: 0; 
+}
+table tr {
     border-top: 1px solid $grey-color;
     background-color: white;
     margin: 0;
-    padding: 0; }
-    table tr:nth-child(2n) {
-      background-color: #f8f8f8; }
-    table tr th {
-      font-weight: bold;
-      border: 1px solid $grey-color;
-      text-align: left;
-      margin: 0;
-      padding: 6px 13px; }
-    table tr td {
-      border: 1px solid $grey-color;
-      text-align: left;
-      margin: 0;
-      padding: 6px 13px; }
-    table tr th :first-child, table tr td :first-child {
-      margin: 0; }
-    table tr th :last-child, table tr td :last-child {
-      margin: 0; }
+    padding: 0;
+}
+table tr:nth-child(2n) {
+    background-color: #f8f8f8;
+}
+table tr th {
+    font-weight: bold;
+    border: 1px solid $grey-color;
+    text-align: left;
+    margin: 0;
+    padding: 6px 13px;
+}
+table tr td {
+    border: 1px solid $grey-color;
+    text-align: left;
+    margin: 0;
+    padding: 6px 13px;
+}
+table tr th :first-child, table tr td :first-child {
+    margin: 0;
+}
+table tr th :last-child, table tr td :last-child {
+    margin: 0;
+}
 
 
 // Adding 'Contents' headline to the TOC
@@ -272,8 +249,6 @@ table {
     @include media-query($on-palm) {
         height: 180px;
     }
-
-    
 }
 
 // Featured image in posts

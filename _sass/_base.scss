@@ -7,18 +7,16 @@
       }
 
 body {
-         background: #fff;
-         font-family: $base-font-family;
-         font-size: $base-font-size;
-         font-weight: $base-font-weight;
-         overflow-x: hidden;
-         color: $text-color;
-         @include media-query($on-palm) {
-          padding: 10px;        
+    background: #fff;
+    font-family: $base-font-family;
+    font-size: $base-font-size;
+    font-weight: $base-font-weight;
+    overflow-x: hidden;
+    color: $text-color;
+    @include media-query($on-palm) {
+        padding: 10px;
     }
-         
 }
-
 
 ::-webkit-scrollbar {
     -webkit-appearance: none;
