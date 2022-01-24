@@ -9,11 +9,10 @@
 body {
          background: #fff;
          font-family: $base-font-family;
-         font-size: 15px;
-         font-weight: 300;
+         font-size: $base-font-size;
+         font-weight: $base-font-weight;
          overflow-x: hidden;
          color: $text-color;
-         line-height: 1.6;
          @include media-query($on-palm) {
           padding: 10px;        
     }

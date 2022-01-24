@@ -5,10 +5,5 @@ permalink: ':title/'
 
 markdown: kramdown
 
-sass:
-  style: compressed
-
-highlight: rouge
-
 include: 
   - _pages

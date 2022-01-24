@@ -2,6 +2,7 @@
     width: 95%;
     margin: 4em auto;
     height: auto;
+    max-width: 1500px;
 }
 
 @media screen and (max-width: 600px){
@@ -164,8 +165,6 @@ footer {
     color: $text-color;
     padding: 50px;
 }
-
-
 
 header {
     text-align: center;
