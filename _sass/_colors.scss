@@ -1,0 +1,21 @@
+@mixin light-colors {
+    --heading-color:    rgb(29, 29, 29);
+    --text-color:       rgb(78, 78, 78);
+    --background-color: #fdfdfd;
+    --brand-color:      #0088AA;
+    --highlight-color:  #eae311;
+    --grey-color-light: #f0f0f0;
+    --grey-color:       #aaa;
+    --grey-color-dark:  #555;
+}
+
+@mixin dark-colors {
+    --heading-color:    rgb(29, 29, 29);
+    --text-color:       rgb(78, 78, 78);
+    --background-color: #fdfdfd;
+    --brand-color:      #0088AA;
+    --highlight-color:  #eae311;
+    --grey-color-light: #f0f0f0;
+    --grey-color:       #aaa;
+    --grey-color-dark:  #555;
+}

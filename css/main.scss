@@ -9,15 +9,6 @@ $base-font-weight: 300;
 $small-font-size:  $base-font-size * 0.875;
 $spacing-unit:     10px;
 
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #0088AA;
-$grey-color:       #828282;
-$highlight-color:  #eae311;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
-
-$content-width:    900px;
 $on-palm:          600px;
 $on-laptop:        1000px;
 
@@ -27,8 +18,17 @@ $on-laptop:        1000px;
     }
 }
 
-@import
-        "base",
-        "style",
-        "menu"
-;
+@import "base";
+@import "style";
+@import "menu";
+@import "colors";
+
+:root {
+    @include light-colors;
+}
+
+@media screen and (prefers-color-scheme: dark) {//we would not like to apply dark mode if content is on printer as that would use a lot of ink
+  :root{
+    @include dark-colors;
+  }
+}
