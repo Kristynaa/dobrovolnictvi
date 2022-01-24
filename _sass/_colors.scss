@@ -7,6 +7,12 @@
     --grey-color-light: #f0f0f0;
     --grey-color:       #aaa;
     --grey-color-dark:  #555;
+
+    --palette_1: #0088aa;
+    --palette_2: #344a53;
+    --palette_3: #97afba;
+    --palette_4: #9c6d9d;
+    --palette_5: #683d6a;
 }
 
 @mixin dark-colors {
@@ -18,4 +24,10 @@
     --grey-color-light: #f0f0f0;
     --grey-color:       #aaa;
     --grey-color-dark:  #555;
+
+    --palette_1: #0088aa;
+    --palette_2: #344a53;
+    --palette_3: #97afba;
+    --palette_4: #9c6d9d;
+    --palette_5: #683d6a;
 }

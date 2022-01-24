@@ -1,5 +1,5 @@
 #container {
-    margin: 2em  1em;
+    margin: 2em auto;
     height: auto;
     max-width: 1500px;
     @include media-query($on-laptop) {
@@ -50,11 +50,30 @@
     &:hover {
         box-shadow: 3px 3px 6px var(--grey-color);
         -webkit-box-shadow: 3px 3px 6px var(--grey-color);
-        -webkit-box-shadow: 3px 3px 6px var(--grey-color);
     }
     blockquote {
         margin-left: 0;
     }
+}
+
+.box.p1 {
+    background-color: var(--palette_1);
+}
+
+.box.p2 {
+    background-color: var(--palette_2);
+}
+
+.box.p3 {
+    background-color: var(--palette_3);
+}
+
+.box.p4 {
+    background-color: var(--palette_4);
+}
+
+.box.p5 {
+    background-color: var(--palette_5);
 }
 
 .feat-image {
