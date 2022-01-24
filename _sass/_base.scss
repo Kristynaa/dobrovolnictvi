@@ -15,6 +15,14 @@ body {
     color: $text-color;
 }
 
+hr {
+    border:0;
+    height:1px;
+    width:80%;
+    margin:2em auto 2em;
+    background-color: #EEE;
+}
+
 ::-webkit-scrollbar {
     -webkit-appearance: none;
     height: 5px;
@@ -42,16 +50,16 @@ a {
  */
 h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
-ul, ol, dl, figure,
-%vertical-rhythm {
+ul, ol, dl, figure {
     margin-bottom: $spacing-unit / 2;
 }
 
 h1,h2,h3,h4,h5,h6 {
     font-family: $head-font-family;
     font-weight: 700;
-    margin: 0;
-    line-height: 1.8;
+    &:first-child {
+        margin-top: 0;
+    }
 }
 
 
@@ -122,23 +130,7 @@ li {
          margin-bottom: 0;
             @include media-query($on-palm) {
                 font-size: 12px;
-                }
-    }
-}
-
-
-
-/**
- * Blockquotes
- */
-blockquote {
-    color: $brand-color;
-    border-left: 4px solid $brand-color;
-    padding-left: $spacing-unit;
-    font-size: 20px;
-    font-style: italic;
-    > :last-child {
-        margin-bottom: 0;
+            }
     }
 }
 

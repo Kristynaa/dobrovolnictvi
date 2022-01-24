@@ -9,8 +9,8 @@ layout: default
           <a href="{{post.url | prepend: site.baseurl}}"><img class="feat-image" src={{ "/images/thumbnails/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}"></a>
        {% endif %}
           <div class="container">
-            <h4>{{post.title}}</h4>
-            <p>{{post.description}}</p>
+            <a href="{{post.url | prepend: site.baseurl}}"><h4>{{post.title}}</h4></a>
+            <p>{{post.excerpt}}</p>
              <div class="action">{{ post.date | localize: '%d. %B %Y' }}<a href="{{post.url | prepend: site.baseurl}}"><i class="fa fa-arrow-right" aria-hidden="true"></i></a></div> 
         </div>   
     </div>
