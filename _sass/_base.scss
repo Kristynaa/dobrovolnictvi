@@ -4,7 +4,7 @@
     -webkit-transition-timing-function: linear; /* Safari */
     transition: all 0.2s;
     transition-timing-function: linear;
-      }
+}
 
 body {
     background: #fff;
@@ -13,9 +13,6 @@ body {
     font-weight: $base-font-weight;
     overflow-x: hidden;
     color: $text-color;
-    @include media-query($on-palm) {
-        padding: 10px;
-    }
 }
 
 ::-webkit-scrollbar {

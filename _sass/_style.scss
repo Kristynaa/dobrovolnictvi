@@ -3,6 +3,9 @@
     margin: 2em auto;
     height: auto;
     max-width: 1500px;
+    @include media-query($on-palm) {
+        margin: 1em auto;
+    }
 }
 
 @media screen and (max-width: 600px){
@@ -58,12 +61,11 @@
 .feat-image {
    border-radius: 4px 4px 0 0; 
    width: 100%;
-
 }
 
 
 .container {
-         padding: 15px;
+    padding: 15px;
 
 }
 
@@ -161,6 +163,9 @@ footer {
 header {
     text-align: center;
     margin: 2em 0;
+    @include media-query($on-palm) {
+        margin: 1em 0;
+    }
 }
 
 // Table
