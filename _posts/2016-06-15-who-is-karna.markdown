@@ -1,14 +1,23 @@
 ---
 layout: post
-title:  "Who is Karna?"
+title:  "Matematik"
 img: karna.jpg
 width: small
 ---
-Karna is one of the central characters in the Hindu epic Mahābhārata. Karna was one of the greatest warriors, whose martial exploits are recorded in the epic, and the only warrior believed to be able to defeat Arjuna in battle.
 
-Karna was the son of Surya(Sun) and Kunti, born to Kunti before her marriage with Pandu.
+**Matematik**
 
-![Karna]({{site.baseurl}}/images/karna-2.jpg)
+>Odpusťte mi prosím můj vděk, jež prolíná se s nevděkem.  
+>Nevděk lze vyjádřit pláčem a bolestmi ostatních.  
+>Mé výčitky svědomí vidím v jejich slzách, jsou modré i průzračné, hlasité i úplně tiché.  
+>Děkuji vám za vše, darem hlavním byla však vždy především naděje, naděje na zotavení.  
 
-
-Image Credits - [18days](https://www.youtube.com/watch?v=kyHFBybC3RI) and [Nisachar](http://nisachar.deviantart.com/gallery/37429163/18-Days) 
+>Vzpomínám na chvíle bezstarostné i nemilé a obdivuji ty miliony, snad miliardy hrdých očí,  
+>kteří ustály těžce zvladatelné momenty v jejich životech.  
+>Věnuji škobrtavý úsměv dětským i dospělým duším,  
+>utrápeným, nebo sluncem zahaleným, zatímco jiní, o několik oken dále, prožívají veselí.  
+>Náhle ptám se, jaké bohatství v sobě ty duše ukrývají a kam jej s sebou odnášejí,  
+>koho ty nevinné, a láskou nebo bojem vinné duše kdy rozesmály,  
+>jaký matematik dokázal by jejich slzy spočítat.  
+>Mají smysl, pro humor?  
+ 
