@@ -1,9 +1,6 @@
 title: Kreslíme v dešti
 desctiption: Karna is a responsive jekyll theme which includes pinterest like pins.
 url: https://www.kreslimevdesti.cz
-permalink: ':title/'
-
-markdown: kramdown
 
 include: 
   - _pages
