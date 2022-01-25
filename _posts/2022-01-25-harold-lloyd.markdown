@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Harold Lloyd"
-img: harold.jpeg
+img: harold.jpg
 author: Kristýna
 ---
 
