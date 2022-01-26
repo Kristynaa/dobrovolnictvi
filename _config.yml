@@ -2,6 +2,7 @@ title: Kreslíme v dešti
 description: Cílem této stránky je literárně a výtvarně představit svět duševních onemocnění české široké veřejnosti, a poskytnout tak umělecký zážitek.
 url: https://www.kreslimevdesti.cz
 tagline: Vítejte
+permalink: /:categories/:year/:month/:day/:title
 
 include: 
   - _pages
@@ -10,4 +11,4 @@ defaults:
   - scope:
       path: index.html
     values:
-      image: /images/logo.svg
+      image: /images/logo.png
