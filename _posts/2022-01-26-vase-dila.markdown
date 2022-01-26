@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Vaše umělecká díla"
+img: papousek.jpg
+author: noví pocestní
+date: 2022-01-26 10:00:00 +0000
+---
+
+Zde je místo pro Vaše umělecká díla - malby, kresby, fotografie, povídky, básně, pohádky..., která s námi chcete sdílet. Mohou to být také díla Vašich příbuzných, známých nebo kolegů, které duševní onemocnění ovlivnilo.
+
+Těšíme se na Vaše příspěvky!

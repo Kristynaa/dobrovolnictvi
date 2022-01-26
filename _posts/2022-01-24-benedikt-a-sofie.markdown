@@ -9,7 +9,7 @@ author: Kristýna
 >toť zázrak? Nebo prokletí?  
 >Původně s magií splynouti,  
 >poté mnohdy stigmatem býti,  
->nyní jako privilegium vnímati.  
+>nyní jako příležitost vnímati.  
 >Z jaké planety hlasy pocházejí?  
 >Snad duše z temné hmoty přicházejí.  
 >Nebo s jitrem z hvězd na zemi dopadají?  
