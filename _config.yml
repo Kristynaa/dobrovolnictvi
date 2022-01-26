@@ -1,6 +1,13 @@
 title: Kreslíme v dešti
-desctiption: Karna is a responsive jekyll theme which includes pinterest like pins.
+description: Cílem této stránky je literárně a výtvarně představit svět duševních onemocnění české široké veřejnosti, a poskytnout tak umělecký zážitek.
 url: https://www.kreslimevdesti.cz
+tagline: Vítejte
 
 include: 
   - _pages
+
+defaults:
+  - scope:
+      path: index.html
+    values:
+      image: /images/logo.svg

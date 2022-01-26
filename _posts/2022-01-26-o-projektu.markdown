@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "O projektu - Vítejte!"
-img: kvetiny.jpg
+image: kvetiny.jpg
 author: Kristýna
 date: 2022-01-26 11:00:00 +0000
 ---
