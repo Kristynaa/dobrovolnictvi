@@ -19,7 +19,7 @@ vítám Vás na kreslené a popsané stránce plné dešťových bouří, ale i 
 Poetické pavučinky budou Vám příležitostí pro seznámení nejen s básníky, spisovateli, kreslíři, malíři či fotografy, ale především s nevšedními osobami a talenty.
 Pojďte s námi jedinečnou cestou plnou obrázků, fotografií, povídek, pohádek a básní, cestou klikatou, na níž seznámeni budete s duševními patáliemi poutníků, jimž do cesty plné těžkostí a zotavení naskytla se také vděčnost.
 
-Přijměte prosím výzvu, Vy, kdo svůj příběh zotavení či svá další (destigmatizačí i nedestigmatizační) literární a výtvarná díla sdíleti plánujete, a zašlete svá umělecká díla na e-mailovou adresu {{ 'kreslime' | mailObfuscate }}. Podílejte se tak s námi na destigmatizaci! Zapojit se mohou lidé se zkušeností s duševním onemocněním nebo i jejich příbuzní a známí, jimž nemoc ovlivnila život. Více informací pro sdílení získejte na e-mailové adrese {{ 'info' | mailObfuscate }}. Autorka projektu má právo zhodnotit vhodnost děl a případně je na webu nezveřejnit. Děkuji za pochopení.
+Přijměte prosím výzvu, Vy, kdo svůj příběh zotavení či svá další (destigmatizačí i nedestigmatizační) literární a výtvarná díla sdíleti plánujete, a zašlete svá umělecká díla na e-mailovou adresu {{ 'kreslime' | mailObfuscate }}. Podílejte se tak s námi na destigmatizaci! Zapojit se mohou lidé se zkušeností s duševním onemocněním nebo i jejich příbuzní a známí, jimž nemoc ovlivnila život. Více informací pro sdílení získejte na e-mailové adrese {{ 'info' | mailObfuscate }}.
 
 ## O zkušenostech autorky dobrovolnického projektu
 
