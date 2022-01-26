@@ -5,4 +5,6 @@ img: harold.jpg
 author: Kristýna
 ---
 
-Portrét Harolda Lloyda, kresba podle dobové fotografie - [Pinterest](https://www.pinterest.com/pin/462815299183786493).
+Portrét Harolda Lloyda, kresba podle dobové fotografie. 
+
+Zdroj - [Pinterest](https://www.pinterest.com/pin/462815299183786493).
