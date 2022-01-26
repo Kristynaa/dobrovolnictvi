@@ -12,3 +12,5 @@ defaults:
       path: index.html
     values:
       image: /images/logo.png
+      twitter:
+        card: summary

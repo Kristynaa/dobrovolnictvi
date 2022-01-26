@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Benedikt a Sofie
-image: motyl.jpg
+image: /images/motyl.jpg
 author: Kristýna
 ---
 

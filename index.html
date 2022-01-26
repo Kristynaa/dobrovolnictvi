@@ -6,7 +6,7 @@ layout: default
     {% for post in site.posts %}
     <div class="box p{{ forloop.index0 | modulo:5 | plus:1 }}">
        {% if post.image %}
-          <a href="{{post.url | prepend: site.baseurl}}"><img class="feat-image" src={{ "/images/thumbnails/" | prepend: site.baseurl | append: post.image }} alt="{{post.title}}"></a>
+          <a href="{{post.url | prepend: site.baseurl}}"><img class="feat-image" src={{ site.baseurl | append: post.image | replace: "images", "images/thumbnails"}} alt="{{post.title}}"></a>
        {% endif %}
           <div class="container">
             <a href="{{post.url | prepend: site.baseurl}}"><h4>{{post.title}}</h4></a>
