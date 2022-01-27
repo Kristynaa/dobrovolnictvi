@@ -4,6 +4,7 @@ title:  "O projektu - Vítejte!"
 image: /images/kvetiny.jpg
 author: Kristýna
 date: 2022-01-26 11:00:00 +0000
+priority: high
 ---
 
 Cílem této stránky je literárně a výtvarně představit svět duševních onemocnění české široké veřejnosti, a poskytnout tak umělecký zážitek.
