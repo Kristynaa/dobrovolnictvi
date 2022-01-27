@@ -88,7 +88,7 @@ strong { font-weight: bold; }
 
 .action .fa:hover { opacity: 0.8; }
 
-.page-container { margin: 0 auto; box-shadow: 0 0 1px var(--grey-color); max-width: 800px; }
+.page-container { margin: 0 auto; box-shadow: 0 0 5px var(--grey-color); max-width: 800px; }
 
 .page-container img { max-width: 100%; }
 
