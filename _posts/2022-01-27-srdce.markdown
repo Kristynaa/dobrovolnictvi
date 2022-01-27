@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Srdce"
+image: /images/sarka/srdce.JPG
+author: Šárka
+date: 2022-01-27 18:29:00 +0000
+---
+
+Obraz od Šárky, akryl na plátně
