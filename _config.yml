@@ -6,11 +6,3 @@ permalink: /:categories/:year/:month/:day/:title
 
 include: 
   - _pages
-
-defaults:
-  - scope:
-      path: index.html
-    values:
-      image: /images/logo.png
-      twitter:
-        card: summary
