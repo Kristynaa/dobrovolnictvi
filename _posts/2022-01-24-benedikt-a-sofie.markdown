@@ -114,7 +114,7 @@ Jejich mnohdy spletité cesty setkaly se opět v ladně běžícím vlaku. Tento
 
 Jednoho dne, po roce a dni, usmálo se na ně štěstí, jejich pohled na moment se střetl, on zbledl, ona se zčervenala, a celý svět se s nimi otočil, pozpátku a poté tisíckrát dopředu, v dáli hnal se vlak krajinou, jen nenápadně, a přesto dokonale.
 
-Další dny ubíhaly pomalu, setkali se zas a znovu, první schůzka byla jako ta nejbarevnější hvězda na tajuplně temné obloze. Julie přivřela oči a jeho polibek zalil její víčka, slzy i přesto stekly na jeho dlaně.
+Další dny ubíhaly pomalu, setkali se zas a znovu, první schůzka byla jako ta nejbarevnější hvězda na tajuplně temné obloze. Sofie přivřela oči a jeho polibek zalil její víčka, slzy i přesto stekly na jeho dlaně.
 
 A ona nyní verše tvořila...
 
