@@ -37,19 +37,20 @@
 .size-1of4 { width: 25%; }
 
 .box {
-    margin: 5px;
+    margin: 10px 5px;
     @include media-query($on-palm) {
-        margin: 5px 0px;
+        margin: 8px 0px;
     }
-    display: inline-block;
     border-radius: 4px;
     box-shadow: 2px 2px 4px var(--grey-color);
     -webkit-box-shadow: 2px 2px 4px var(--grey-color);
-    -moz-box-shadow: 2px 2px 4px var(--grey-color);
     color: var(--grey-color-light);
     &:hover {
         box-shadow: 3px 3px 6px var(--grey-color);
         -webkit-box-shadow: 3px 3px 6px var(--grey-color);
+    }
+    &:first-child {
+        margin-top: 0px;
     }
     blockquote {
         margin-left: 0;
