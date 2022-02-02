@@ -6,3 +6,5 @@ permalink: /:categories/:year/:month/:day/:title
 
 include: 
   - _pages
+
+date_locale: cs
