@@ -19,10 +19,10 @@ excerpt: Letí šál pozpátku...
 >Za zpěvu zvířat, šepotu ptáků, chápajících lidskou řeč, ač tajně,  
 >za tichosti neskromného polibku dávného strachu a budoucí radosti,  
 >spěchajících bez mincí, bez nároků na uznání,  
->jen pro dobu těšení se na tvoji přetékající paletu úsměvů.  
+>jen pro dobu těšení se na tvoji paletu úsměvů.  
 
 >Vyprávělo mi ptačí děvče o těchto časech budoucích,  
 >četlo mi také o příbězích stromů z dob minulých.  
 >Za toho šepotu kreslím gesta příběhů do skicáku,  
->vybarvuji je opatrně, aby nestyděla se a usmála se jen zlehka,  
+>vybarvuji je opatrně, aby jeho tvář nestyděla se a usmál se jen zlehka,  
 >jako když tancují vrásky na kmenu lidského rodokmenu.  
