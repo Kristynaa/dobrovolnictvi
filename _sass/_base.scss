@@ -53,11 +53,6 @@ h2{
     }
 }
 
-img {
-    max-width: 100%;
-    vertical-align: middle;
-}
-
 ul, ol {
     margin-left: $spacing-unit;
      @include media-query($on-palm) {
