@@ -3,7 +3,7 @@ layout: post
 title:  Tajemství v řádcích
 author: Kristýna
 date: 2022-02-22 15:00:00 +0000
-excerpt: Tito bělovousí stařešinové spokojeně nad horami podřimují. Mnohdy však slyší i oni lidské burácení a hromy, proto, pokud možno, rychle do dáli prchají...
+excerpt: Tito bělovousí stařešinové spokojeně nad horami podřimují...
 
 ---
 
