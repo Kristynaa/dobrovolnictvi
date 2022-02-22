@@ -7,9 +7,9 @@ excerpt: Tito bělovousí stařešinové spokojeně nad horami podřimují...
 
 ---
 
-Docela osamoceně, avšak v mysli akčně, žila v sousedství lesoparku, domova mnoha okřídlených bytostí, jedna neokřídlená dívka. Tato dívka si přesto nesla na zádech veliké tajemství.  
+Docela osamoceně, avšak v mysli akčně, žila nedaleko domova mnoha okřídlených bytostí, jedna neokřídlená dívka. Tato dívka si přesto nesla na zádech tajemství.  
 
-I přes poměrně hodně známých, přátel, jimž by se mohla svěřit s nejtajnějšími myšlenkami, příliš mnoho neměla. Mezi její nejcennější přátele patřili také ti, kteří kráčeli bohatí na zkušenosti nejen s duševními patáliemi. Oni pro ni měli nevyčíslitelnou hodnotu, přesto leckteré záležitosti ani jim nepůjčila.  
+I přes poměrně hodně známých, přátel, jimž by se mohla svěřit s tajnějšími myšlenkami, příliš mnoho neměla. Mezi její nejcennější přátele patřili také ti, kteří kráčeli bohatí na zkušenosti nejen s duševními patáliemi. Oni pro ni měli nevyčíslitelnou hodnotu, přesto leckteré záležitosti ani jim nepůjčila.  
 
 Kromě nich. Koho? A tím dorážíme k jejímu tajemství - hlasům, které na míle daleko slyšela, když tancovala, zpívala, četla, psala, jedla, chodila, ležela, pracovala. Slyšela tyto tajuplné postavy, snad hmotné, a přece neskutečné, ze všech zvuků (větru i vlaku), které byly přetransformovány do reálně znějící řeči v jazyce českém.  
 
